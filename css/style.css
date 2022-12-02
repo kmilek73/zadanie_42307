@@ -1,0 +1,18 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color:red;
+}
+
+.paragraf_1 {
+    width: 100px;
+    height: 100px;
+    background-color:blue;
+}
+
+.paragraf_2 {
+    width: 100px;
+    height: 100px;
+    opacity:0.5;
+}
+
